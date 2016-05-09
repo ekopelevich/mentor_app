@@ -1,0 +1,10 @@
+body {
+  color: #fff;
+  background-color: #333333;
+}
+
+.btn-reg {
+  padding: 30px;
+  background-color: #ff8a00;
+  box-shadow: 2px 2px black 0.2;
+}
