@@ -1,2 +1,2 @@
-# mentor_app
+# mentor_client
 match mentors to students
