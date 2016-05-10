@@ -1,0 +1,29 @@
+{
+  "name": "mentor_client",
+  "version": "1.0.0",
+  "description": "A mentor matching application",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekopelevich/mentor_app_client.git"
+  },
+  "keywords": [
+    "mentor",
+    "matching"
+  ],
+  "author": "Elana Kopelevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekopelevich/mentor_app_client/issues"
+  },
+  "homepage": "https://github.com/ekopelevich/mentor_app_client#readme"
+}
